@@ -13,7 +13,7 @@ Many of these images are gang tags.
 Then we may be able to get an estimate of geographic concentration of gang activity. This also depends upon the
 additional assumptions that 
 
-* Nearly all gangs tag
+* Nearly all gangs engage in tagging
 * That there are more likely to be gang tags within an area where gangs are activity
 
 We would need people to label the images. How do we do this?
